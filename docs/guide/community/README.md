@@ -108,7 +108,7 @@ A growing list of Vue Formulate code examples.
 - [Button group styled with Tailwind](https://codesandbox.io/s/tailwind-vue-formulate-button-group-iq4we)
 - [Using HTML and Images for checkboxes](https://codesandbox.io/s/vue-formulate-image-checkboxes-example-clbwf?file=/src/components/Reproduction.vue)
 - [Collapsable accordian style repeatable groups](https://codesandbox.io/s/vue-formulate-collapsable-group-accordion-style-g612o?file=/src/components/Reproduction.vue)
-
+- [Number field with increment/decrement buttons](https://xjfym.csb.app/)
 :::tip Add your example
 Have you created a Vue Formulate CodePen or CodeSandbox? Share it with the
 community! Just [edit this page and submit a pull request](https://github.com/wearebraid/vueformulate.com/edit/master/docs/guide/community/README.md)
